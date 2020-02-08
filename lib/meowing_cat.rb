@@ -1,3 +1,6 @@
 class Cat 
-  def cat 
+ attr_accessor :name
+  attr_writer :name
+  
+  
 end 
